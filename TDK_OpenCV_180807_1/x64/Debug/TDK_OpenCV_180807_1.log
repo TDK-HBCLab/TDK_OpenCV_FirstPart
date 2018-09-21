@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (TDK_OpenCV_180807_1.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  TDK_OpenCV_180821_1.cpp
+  TDK_OpenCV_180807_1.vcxproj -> E:\TDK\OpencvProject\TDK_OpenCV\x64\Debug\TDK_OpenCV.exe
